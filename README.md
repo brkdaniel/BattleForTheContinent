@@ -1,5 +1,6 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+# Battle for The Continent
 
+Battle for the Continent este un card game inspirat din celebrul Gwent, jocul de carti din universul The Witcher. In acest joc te vei duela cu un AI sau prietenul tau cel mai bun, local, pentru a castiga suprematia asupra Continentului, folosind deck-ul propriu, corespunzator factiunii din care faci parte. Jocul va avea formatul Gwent-ului, folosind si cateva mecanici inspirate din Hearthstone. Pentru a putea infrange adversarul tau, trebuie sa castigi 2/3 runde, iar pentru a castiga o runda esti nevoit sa ai mai multa putere (reprezentata numeric) a cartilor plasate pe masa la incheierea fiecareia, dar sa ai in vedere gestionarea corespunzatoare a resurselor si a cartilor puternice, astfel incat sa nu fi pacalit sa iti plasezi prea rapid cele mai puternice carti, pentru a nu irosi prematur potentialul "mainii" tale.
 ### Folosiți template-ul corespunzător grupei voastre!
 
 | Laborant  | Link template                                |
